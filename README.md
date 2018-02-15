@@ -1,4 +1,4 @@
 # README
 
-Hello!
-I'm jerieljan
+Hello again!
+I'm jerieljan and this is my README file.
